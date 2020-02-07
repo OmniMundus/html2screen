@@ -5,7 +5,7 @@ html2screen export html animation to video file.
 ### Usage
 
 ```sh
-npm install
+npm install --save Ventricule/html2screen
 node export.js http://tobiasahlin.com/spinkit/ spinner.webm 1280x720 10s
 ```
 
